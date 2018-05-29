@@ -1,0 +1,7 @@
+﻿  Player.cpp
+  main.cpp
+  Bullet.cpp
+  BootStrapTestApp.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  BootStrapTest.vcxproj -> L:\newCplusplusrepository.git\trunk\temp\BootStrapTest\x64\Debug\BootStrapTest.exe
